@@ -21,7 +21,7 @@ Many municipalities have deployed closed-circuit television (CCTV) systems for s
 
 ## 2-In-Roadway Traffic Flow Sensors
 
-![image.png](attachment:image.png)
+![image.png](HTB1wj_Dwh1YBuNjy1zcq6zNcXXax.jpg)
 
 There are several types of in-roadway sensors that can be placed on roadways or within the pavement. They are another useful traffic data source.
 
