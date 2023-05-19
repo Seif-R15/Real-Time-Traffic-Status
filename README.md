@@ -5,13 +5,13 @@
 
 A decade ago, it was hard to access timely, accurate traffic data to support applications and services, such as traffic management, mapping and navigation, safety and emergency management, urban planning for smart cities, or location intelligence. Today, real-time traffic data is much more widely available as public datasets and commercial sources. At the same time, there are many more new applications and machine learning algorithms that use real-time traffic data to reduce congestion, guide drivers, and generate new insights for decision makers. 
 
-![Traffic-flow-under-different-types-of-traffic-condition.jpg](attachment:Traffic-flow-under-different-types-of-traffic-condition.jpg)
+![Traffic-flow-under-different-types-of-traffic-condition.jpg](card.jpg)
 
 #  Methods for Collecting The Traffic Status
 
 ## 1 - Video Analytics 
 
-![image.png](attachment:image.png)
+![image.png](Video-Analytics_1_V1-3.png)
 
 Many municipalities have deployed closed-circuit television (CCTV) systems for surveillance purposes. These can be used for measuring traffic.
 
